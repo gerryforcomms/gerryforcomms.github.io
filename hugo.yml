@@ -1,0 +1,23 @@
+baseURL: https://gerry.website
+languageCode: en-us
+title: Gerry Mander
+theme: PaperMod
+
+params:
+  ShowPostNavLinks: true
+  homeInfoParams:
+    Title: "Hi, I'm Gerry 🐈"
+    Content: >
+      I write stories and doodle.
+
+
+      While I learn how to write in markdown, visit [Karl Zylinski's](https://zylinski.se/) website instead and learn about game development!
+
+  socialIcons:
+    - name: X
+      url: "https://twitter.com/gerryforcomms"
+    - name: medium
+      url: "https://gerryforcomms.medium.com/"
+    - name: YouTube
+      url: "https://www.youtube.com/@jieleding"
+  
