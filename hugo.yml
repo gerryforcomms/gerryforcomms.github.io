@@ -8,16 +8,27 @@ params:
   homeInfoParams:
     Title: "Hi, I'm Gerry 🐈"
     Content: >
-      I write stories and doodle.
+      I am an artist. I love cats. I am also allergic to cats.
 
 
-      While I learn how to write in markdown, visit [Karl Zylinski's](https://zylinski.se/) website instead and learn about game development!
+      My art is inspired by the happenings around me; observations that touched something in me or made me chuckle (the likelihood of that being a cat is very high).
+
+
+      I am a Singapore-born human, living in Sweden since 2019. People call me Gerry, and they say I look like a charmander. Thus the stage name I've had since my time in the Singapore street dance scene - Gerry Mander. 
+
+
+      Credentials: I hold a Bachelor of Social Science (psychology major) from Singapore Management University. I also lived a decade as a communicator in the corporate world.
 
   socialIcons:
+    - name: instagram
+      url: "https://www.instagram.com/kattstudie/"
+    - name: bluesky
+      url: "https://bsky.app/profile/mandelbaumski.bsky.social"
     - name: X
       url: "https://twitter.com/gerryforcomms"
     - name: medium
       url: "https://gerryforcomms.medium.com/"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/leegeraldine/"
     - name: YouTube
       url: "https://www.youtube.com/@jieleding"
-  
