@@ -17,4 +17,6 @@ The drawings explore stigma, thoughts, struggles and joy that work brings, throu
 
 The small-print zine premieres at [Kulturhuset Leoparden](https://www.kulturhusetleoparden.com/)'s art market on 9 May 2026 in Uppsala, Sweden, with 50 serialized copies available, alongside prints and stickers.
 
+Zines and other cat art are available for purchase in my webshop at [kattstudie.se](https://kattstudie.se)! 
+
 ![A poster advertising an art market at Kulturhuset Leoparden on 9 May 2026.](/artmarketposter.jpg)

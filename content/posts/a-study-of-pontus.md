@@ -12,6 +12,9 @@ Pontus - my muse. Pontus is a very CAT cat. There's just so much joy to be had w
 Pontus Pilates Kjellgren was a cat that adopted the Kjellgren family (my partner's family) and lived 14 exciting years in the outskirts of Knivsta, Sweden. I got to hear stories of Pontus from friends and family of my partner. They were my favorite stories. I never met Pontus but there's just something about this cat. 
 
 The study of Pontus is a continuous project of mine. Some pieces made it into the collection of the [Working Class Cat zine](https://gerry.website/posts/working-class-cat).
+
+You may shop Pontus-art in my webshop at [kattstudie.se](https://kattstudie.se)!
+
 A preview of some Pontus pieces:
 
 ![Pontus the cat, drawn in 3 ways.](/Pontus3ways.jpg)
